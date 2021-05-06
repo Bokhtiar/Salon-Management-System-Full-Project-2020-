@@ -1,0 +1,3 @@
+[24-Oct-2020 00:13:40 Asia/Dhaka] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/deluhskm/public_html/app/Http/Controllers/admin/SettingsController.php on line 76
+[24-Oct-2020 10:20:07 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/deluhskm/public_html/app/Http/Controllers/admin/SettingsController.php on line 80
+[24-Oct-2020 10:20:37 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/deluhskm/public_html/app/Http/Controllers/admin/SettingsController.php on line 80
